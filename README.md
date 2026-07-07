@@ -1,4 +1,4 @@
-# Clinical Trial Dropout Prediction
+# Customer Churn Analysis (Clinical Trial Dropout Prediction)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange) ![SHAP](https://img.shields.io/badge/Explainability-SHAP-green)
 
