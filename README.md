@@ -89,7 +89,7 @@ import sys; sys.path.insert(0, '/content')
 
 ## Internship Details
 
-- **Intern ID:** YOUR_INTERN_ID_HERE
-- **Organization:** Codtech IT Solutions
-- **Domain:** Artificial Intelligence & Machine Learning
+- **Intern ID:** CITS6178
+- **Organization:** Codtech IT Solutions Private Limited
+- **Domain:** Artificial Intelligence
 - **Project:** Customer Churn Analysis (Clinical Trial Dropout Prediction)
