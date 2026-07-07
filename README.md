@@ -91,5 +91,5 @@ import sys; sys.path.insert(0, '/content')
 
 - **Intern ID:** CITS6178
 - **Organization:** Codtech IT Solutions Private Limited
-- **Domain:** Artificial Intelligence
+- **Domain:** Artificial Intelligence & Machine Learning
 - **Project:** Customer Churn Analysis (Clinical Trial Dropout Prediction)
