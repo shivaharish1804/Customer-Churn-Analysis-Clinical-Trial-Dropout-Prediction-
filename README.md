@@ -86,3 +86,10 @@ streamlit run app/app.py
 import sys; sys.path.insert(0, '/content')
 # Then run notebook cells
 ```
+
+## Internship Details
+
+- **Intern ID:** YOUR_INTERN_ID_HERE
+- **Organization:** Codtech IT Solutions
+- **Domain:** Artificial Intelligence & Machine Learning
+- **Project:** Customer Churn Analysis (Clinical Trial Dropout Prediction)
